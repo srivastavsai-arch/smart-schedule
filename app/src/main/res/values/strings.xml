@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Schedule</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="task_title">Task title</string>
+    <string name="task_notes">Notes (optional)</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="overdue">Overdue</string>
+    <string name="completed">Completed</string>
+    <string name="no_tasks">No tasks yet</string>
+    <string name="no_tasks_desc">Tap + to add your first task</string>
+    <string name="search_tasks">Search tasks</string>
+    <string name="filter">Filter</string>
+    <string name="all">All</string>
+    <string name="today">Today</string>
+    <string name="days">days</string>
+    <string name="day">day</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_reminder_text">Check your tasks for today!</string>
+    <string name="task_completed">Task completed!</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">Undo</string>
+    <string name="confirm_delete">Delete this task?</string>
+    <string name="confirm_delete_desc">This action cannot be undone.</string>
+</resources>
